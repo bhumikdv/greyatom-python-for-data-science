@@ -1,25 +1,33 @@
 ### Project Overview
 
- You have been hired by the University of Data Science to manage their students' records. Your job is to create the student management system for the university. Let's try to build the system using basic Python operations.
+ Project Spy Game
 
 
 ### Learnings from the project
 
- After completing this project, you will get to know how to solve basic Python problems. In this project, you will be applying the following concepts:
+ After completing this project, you will have a better understanding of solving logical problems using python. In this project, you will be applying the following concepts:
 
-Mathematical operations
-List operations
-Dictionary operations
-String indexing and formatting
+String operations
+Conditional statement and loops
+File I/O
+Functions
 
 
 ### Approach taken to solve the problem
 
- Basic Mathematical operations, List operations, Dictionary operations, String indexing and formatting
+ Basic file operations
 
 
 ### Challenges faced
 
- It was quiet straight forward
+ None!
+
+
+### Additional pointers
+
+ Problem Statement
+Hello lieutenant! It's with an emergency that our agency wishes to use the skills that you learned in 'python intermediate' module. Your mission if you choose to accept it, would be to help us decipher a message that we received from our intel. We have multiple text files that need to be read and have certain operations performed to get our final message.
+
+Good luck. The fate of humanity lies in your hands.!!
 
 
